@@ -1,0 +1,14 @@
+
+Hsquid:S1125œ")Remove the literal "false" boolean value.(òš‡‰8àğ˜»-
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôÆ
+Lsquid:S1125¬"(Remove the literal "true" boolean value.(¬®Üàúÿÿÿÿ8¿è¿Û-
+Lsquid:S1125¾"(Remove the literal "true" boolean value.(¬®Üàúÿÿÿÿ8°¬ÀÛ-
+Lsquid:S1125‹"(Remove the literal "true" boolean value.(Äãë®şÿÿÿÿ8»ª¾Û-
+Isquid:S00108‚")Either remove or fill this block of code.(å¥‡8ú¦™¯‘-
+Msquid:S1125Œ")Remove the literal "false" boolean value.(„Éõ¾şÿÿÿÿ8´ï¾Û-
+Lsquid:S1125Œ"(Remove the literal "true" boolean value.(„Éõ¾şÿÿÿÿ8àğ˜»-
+isquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(áú®V8ä¡ñ¯“-
+osquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(·ÍÌ¼şÿÿÿÿ8ş÷ğ¯“-
+ksquid:S1192E"MDefine a constant instead of duplicating this literal "nav-selected" 4 times.(¬“©Œ8µ Êİ-
+Ssquid:S3655|"5Call "result.isPresent()" before accessing the value.(ÃÇûŞ8ú¦™¯‘-
+Fsquid:S1604:"(Make this anonymous inner class a lambda(‘’×8àğ˜»-

@@ -1,0 +1,8 @@
+com\javaFXApplication\controllers\MainController$1.class
+com\javaFXApplication\controllers\MainController.class
+com\javaFXApplication\entities\User.class
+com\javaFXApplication\Launcher.class
+com\javaFXApplication\dao\UserDao.class
+com\javaFXApplication\utils\Password.class
+com\javaFXApplication\JavaFXApplication.class
+com\javaFXApplication\utils\HibernateSessionFactory.class

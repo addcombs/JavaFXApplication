@@ -1,0 +1,49 @@
+/* primary                  #212121         */
+/* primary-light      #484848    */
+/* primary-dark      #000000    */
+
+/* accent                    #5c6bc0      */
+/* accent-light        #8e99f3       */
+/* accent-dark        #26418f        */
+
+.root {
+    -fx-accent: #5c6bc0;
+    -fx-focus-color: #5c6bc0;
+    -fx-font-family: Calibri;
+}
+
+.button{
+    -fx-background-color: #5c6bc0;
+    -fx-text-fill: #dddddd;
+    -fx-font-family: Calibri;
+    -fx-font-size: 18px;
+}
+
+.dialog-pane{
+    -fx-background-color: #484848;
+}
+
+.dialog-pane > .content.label {
+    -fx-text-fill: #dddddd;
+    -fx-font-size: 16px;
+}
+
+.dialog-pane > .button {
+    -fx-pref-height: 25px;
+}
+
+#menuButton:hover, #minButton:hover, #maxRestoreButton:hover, #closeButton:hover{
+    -fx-background-color: #8e99f3;
+}
+
+#mainAnchor, #nav-selected{
+    -fx-background-color: #212121;
+}
+
+ #menuList, #titleBar{
+    -fx-background-color: #26418f;
+}
+
+#topMenu{
+    -fx-background-color: #5c6bc0;
+}
